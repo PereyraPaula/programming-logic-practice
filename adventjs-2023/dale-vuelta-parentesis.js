@@ -1,3 +1,5 @@
+// https://2023.adventjs.dev/es/challenges/2023/4
+
 function decode (message) {
   const nestRegex = /\(([\w\s]+)\)/g
 
